@@ -65,10 +65,10 @@ make
 <br>  
   
 ## 结果示例
-* CenterTrack中可视化结果之后的图片:<br>
+* CenterTrack中可视化结果的图片:<br>
   ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/CenterTrack_result.jpg)
   MOT数据集中名为MOT17-02-DPM的一段视频的检测结果:<br>
-  <iframe height=498 width=510 src="https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/demo_results/MOT17-02-DPM.avi">
+  <iframe height=498 width=510 src="http://github.com/SJTU-Xuzz27/2D-detection-and-recognition/demo_results/MOT17-02-DPM.avi">
 * result.jpeg为车牌识别的结果
 * result.jpg为人脸识别的结果
 
