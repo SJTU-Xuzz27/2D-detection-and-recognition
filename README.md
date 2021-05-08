@@ -71,8 +71,8 @@ make
   ![MOT17-02-DPM](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/MOT17-02-DPM.avi)
 
 * result.jpeg为车牌识别的结果(识别出的同一个人用同种颜色标记）：<br>
-  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/Arcface_result.jpg)
+  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/result.jpeg)
   
 * result.jpg为人脸识别的结果:<br>
-  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/result.jpeg)
+  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/Arcface_result.jpg)
 
