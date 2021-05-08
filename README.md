@@ -74,5 +74,5 @@ make
   ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/Arcface_result.jpg)
   
 * result.jpg为人脸识别的结果:<br>
-  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/result.jpg)
+  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/result.jpeg)
 
