@@ -6,7 +6,6 @@ https://github.com/xingyizhou/CenterTrack
 https://github.com/LINGYUWEN/HyperLPR-master  
 https://ai.arcsoft.com.cn/third/ldpage.html?utm_source=baidu6&utm_campaign=hr39&utm_medium=cpc&bd_vid=6859621431400586012
 
-   
 <br>
 
 ## CenterTrack
@@ -65,8 +64,10 @@ make
   
 <br>  
   
-## demo_results
-* 000001.jpg为CenterTrack可视化的图片，MOT17-02-DPM.avi为该数据集中一段视频的检测结果
+## 结果示例
+* CenterTrack中可视化结果之后的图片：
+  ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/demo_results/CenterTrack_result.jpg)
+  MOT17-02-DPM.avi为该数据集中一段视频的检测结果
 * result.jpeg为车牌识别的结果
 * result.jpg为人脸识别的结果
 
