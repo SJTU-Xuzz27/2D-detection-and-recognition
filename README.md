@@ -68,8 +68,6 @@ make
 * CenterTrack中可视化结果的图片:<br>
   ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/CenterTrack_result.jpg)
   MOT数据集中名为MOT17-02-DPM的一段视频的检测结果:<br>
-  ![MOT17-02-DPM](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/MOT17-02-DPM.avi)
-  MOT数据集中名为MOT17-02-DPM的一段视频的gif检测结果:<br>
   ![image](https://github.com/SJTU-Xuzz27/2D-detection-and-recognition/raw/master/demo_results/MOT17-02-DPM.gif)
 
 * 车牌识别结果(识别出的同一个人用同种颜色标记）：<br>
